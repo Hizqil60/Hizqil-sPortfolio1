@@ -1,0 +1,58 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Welcome to My Portfolio</h1>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="#about">About Me</a></li>
+    <li><a href="#My certifications">Portfolio</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>Welcome to my portfolio! My name is Hizqil Sani I am a student from northwest university kano, I am currently there as an undergraduate studiying information and communication technology I'm a web developer passionate about creating beautiful and functional websites.</p>
+</section>
+
+<section id="My certifications">
+  <h2>Portfolio</h2>
+  <div class="gallery">
+    <img src="img.jpg" alt="img.jpg">
+    <img src="photo2.jpg" alt="Photo 2">
+    <img src="photo3.jpg" alt="Photo 3">
+    <!-- Add more photos as needed -->
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>You can reach me using the following email:hizqilsani@gmail.com and also through my lines which are  <ul>1.07017957160 </ul>
+  <ul>2.09134744704</ul>
+  </p>
+</section>
+<section id="My certifications">
+  <h2>certifications</h2>
+  <p>The following are the certificates that i had gotten from my primary educations, secondary and also other computer related courses that i have attended e.g T.I.T duka wuya<ul>1.primary and junior secondary school certificate from Asasul Qur'an primary school g/kaya, kqno</ul>
+  <ul>2.senior secondary certificate from Khalifa sheik isyaka rabi'u college, kano</ul>
+  <ul>3.I am currently at yusuf maitama University kano studying ict</ul>
+  </p>
+           
+</section>
+
+<footer>
+  <p>&copy; 2024 My Portfolio</p>
+</footer>
+
+</body>
+</html>

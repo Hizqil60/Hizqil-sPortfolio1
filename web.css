@@ -1,0 +1,111 @@
+body {
+
+            background-color: rgb(247, 185, 93);
+
+            margin: 20px;
+
+            padding: 20px;
+
+            text-shadow: 10px;
+
+            text-decoration: rgb(116#8098ff, 163, 204);
+
+            text-align: center;
+
+        }
+
+        .container {
+
+            max-width: 800px;
+
+            margin: 20px auto;
+
+            padding: 30px;
+
+            background-color:#ff4a2b
+
+            border-radius: 15px;
+
+            box-shadow: 0 0 10px rgba(10, 0, 0, 0.1);
+
+        }
+
+        h1, h2 {
+
+            text-align: center;
+
+        }
+
+        p {
+
+            margin-bottom: 30px;
+
+            text-align: center;
+
+            text-size-adjust: 10px;
+
+        }
+
+        .contact-info {
+
+            margin-top: 30px;
+
+        }
+
+        img {
+
+            margin: 10px;
+
+        }
+
+        #navbar {
+
+            background-color: #fff;
+
+            padding: 10px 0;
+
+            position: fixed;
+
+            width: 100%;
+
+            top: 0;
+
+            z-index: 1000;
+
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+        }
+
+        #navbar ul {
+
+            list-style-type: none;
+
+            margin: 0;
+
+            padding: 0;
+
+            text-align: center;
+
+        }
+
+        #navbar ul li {
+
+            display: inline-block;
+
+            margin-right: 20px;
+
+        }
+
+        #navbar ul li a {
+
+            color: #333;
+
+            text-decoration: none;
+
+        }
+
+        #navbar ul li a:hover {
+
+            color: #666;
+
+        }
